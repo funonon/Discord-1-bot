@@ -1,1 +1,2 @@
-# Discord-1-bot
+# Discordbotコード
+ウェブマニア公式サーバーで解説してるやつです。GASとReplitで動きます。
